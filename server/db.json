@@ -1,0 +1,68 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Anny Alvarado",
+      "age": 25,
+      "address": "NoWhere"
+    },
+    {
+      "id": 4,
+      "name": "Omar Alvarado",
+      "age": 24,
+      "address": "NoWhere"
+    },
+    {
+      "id": 5,
+      "name": "Fernanda Mazuelos",
+      "age": 23,
+      "address": "NoWhere"
+    },
+    {
+      "name": "Otto",
+      "age": "37",
+      "address": "Unknow",
+      "id": 6
+    }
+  ],
+  "skills": [
+    {
+      "id": 1,
+      "name": "Game Developer"
+    },
+    {
+      "id": 2,
+      "name": "Backend Developer"
+    },
+    {
+      "id": 3,
+      "name": "Frontend Developer"
+    },
+    {
+      "id": 4,
+      "name": "FullStack Developer"
+    }
+  ],
+  "competences": [
+    {
+      "id": 1,
+      "StudentId": 1,
+      "skillId": 1
+    },
+    {
+      "id": 2,
+      "StudentId": 1,
+      "skillId": 2
+    },
+    {
+      "id": 3,
+      "StudentId": 2,
+      "skillId": 4
+    },
+    {
+      "id": 4,
+      "StudentId": 2,
+      "skillId": 4
+    }
+  ]
+}
